@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">calculatorApp</string>
+    <string name="delete_button_description">Excluir item</string>
+</resources>
